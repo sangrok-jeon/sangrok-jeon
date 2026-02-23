@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🔐 Sangrok Jeon
 
-<!--
-**sangrok-jeon/sangrok-jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineer transitioning into Offensive Security & Security Research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About Me
+- Security Solution Engineer (5+ years)
+- Building Custom Web CTF Platform
+- Mobile App Reversing (Frida / JNI)
+- Security Research & Vulnerability Analysis
+
+---
+
+## 🛠 Technical Focus
+
+### 🌐 Web Security
+- SQL Injection
+- XSS / CSRF
+- Authentication & Session Handling
+
+### 📱 Mobile Security
+- Frida Hooking
+- Native Library Analysis
+- Android Manifest / Exported Component Analysis
+
+### 🧪 Research
+- CVE Analysis
+- Log-based Attack Trace Analysis
+- Practical Exploitation & Mitigation
+
+---
+
+## 🚀 Current Projects
+- Custom Cloud-based CTF Platform
+- Web Vulnerability Lab
+- Android Reversing Lab
+
+---
+
+## 📚 Blog
+👉 https://94-rokstar.tistory.com
+
+---
+
+⚡ Building real-world attack scenarios and security labs.
