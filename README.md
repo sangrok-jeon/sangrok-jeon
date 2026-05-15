@@ -5,7 +5,7 @@ Security Engineer transitioning into Offensive Security & Security Research.
 ---
 
 ## 🧭 About Me
-- Security Solution Engineer (5+ years)
+- Security Solution Engineer
 - Building Custom Web CTF Platform
 - Mobile App Reversing (Frida / JNI)
 - Security Research & Vulnerability Analysis
